@@ -3,5 +3,12 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <h1>Change ONE</h1>
+    <div class="row col-md-12">
+        <div class="alert alert-warning">
+            <blockquote style="font-style:italic">
+                This is the second change.
+            </blockquote>
+        </div>
+    </div>
 </asp:Content>
 
